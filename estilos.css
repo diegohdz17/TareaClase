@@ -1,0 +1,18 @@
+body{
+    background-color: crimson;
+}
+
+.contenedor {
+    display: flex;  /* Alinea los elementos en fila */
+    align-items: center; /* Centra verticalmente los elementos */
+    gap: 20px; /* Espaciado entre la lista y la imagen */
+}
+
+.foto {
+    height: auto;
+    padding: left 50px;
+}
+
+.info {
+    font-size: 50px;
+}
